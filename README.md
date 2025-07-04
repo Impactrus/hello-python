@@ -1,12 +1,18 @@
-# Hello Python
+# Projekt LAB 1–5 – Frontend + CI/CD
 
-Prosty program w Pythonie, który wypisuje "Hello, world!" na ekranie.
+## 📦 Zawartość projektu
 
-## Instalacja
+- Prosty frontend (HTML/CSS/JS)
+- Zastosowane workflow z feature branchami
+- Testy i TDD
+- Wersjonowanie semantyczne
+- CI/CD pipeline z GitHub Actions
+- Automatyczny deployment na serwer
 
-Wymagany jest Python 3. Zainstaluj go ze strony [python.org](https://python.org).
+---
 
-## Użycie
+## 🚀 Uruchomienie lokalnie
 
 ```bash
-python main.py
+npm install
+npm run dev
